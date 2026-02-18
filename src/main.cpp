@@ -21,8 +21,6 @@ float qmpPressureInHg = 0.0f;
 float qmpAltitudeFt = 0.0f;
 bool shtPresent = false;
 bool qmpPresent = false;
-
-const char* boardLabel = "M5Stack Core2";
 const int i2cSdaPin = 32;
 const int i2cSclPin = 33;
 const int textSize = 2;
