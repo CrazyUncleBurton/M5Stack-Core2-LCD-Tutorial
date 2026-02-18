@@ -1,6 +1,6 @@
 /*
 
-  M5Stack LCD Testing - Core2 Edition
+  M5Stack Core2 LCD Tutorial
   by Bryan A. "CrazyUncleBurton" Thompson
   Last Updated 2/17/2026
 
