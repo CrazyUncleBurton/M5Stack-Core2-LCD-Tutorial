@@ -1,7 +1,7 @@
 # M5Stack-Core2-LCD-Testing
 
 by Bryan A. "CrazyUncleBurton" Thompson
-Last Updated 2/17/2026
+Last Updated 2/21/2026
 
 ## Concepts
 
@@ -13,12 +13,6 @@ Microcontroller:  M5Stack Core2
 Sensor: M5Stack Unit ENV III Temp/Pressure/Humidity sensor + 4 wire Grove cable
 
 Connect cable to sensor, then connect to red port on Microcontroller.
-
-## Prerequisites
-
-- Install VS Code
-- Install PlatformIO extension
-- Install Microsoft C/C++ Extension
 
 ## Documentation
 
