@@ -16,7 +16,7 @@ Connect cable to sensor, then connect to red port on Microcontroller.
 
 ## Documentation
 
-See the project files / docs folder for a PDF of the tutorial.
+See the project files / docs folder.
 
 ## M5Stack Core2 AWS Hardware
 
